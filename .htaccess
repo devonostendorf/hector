@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Installation directory
-RewriteBase /hector_clean_WIP/
+RewriteBase /hector/
 
 # Protect hidden files from being viewed
 <Files .*>
