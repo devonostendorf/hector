@@ -2,7 +2,7 @@
 
 A simple system to manage your collections, used to illustrate how to build a web application with the Kohana framework.
 
-See [https://devonostendorf.com/tag/hector](https://devonostendorf.com/2015/11/hector-wrap-up/) for a summary of the tutorial posts that walk through this code.
+[Here's a summary](https://devonostendorf.com/2015/11/hector-wrap-up) of the tutorial posts that walk through this code.
 
 
 # Kohana PHP Framework
